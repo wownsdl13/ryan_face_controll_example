@@ -1,6 +1,8 @@
 # ryan_face
 
-A new Flutter project.
+Cute ryan face controll with GestureDetector using Flutter
+
+youtube explain : https://www.youtube.com/watch?v=0HuDT2e1_nw&feature=youtu.be
 
 ## Getting Started
 
